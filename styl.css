@@ -1,0 +1,35 @@
+
+.sign{
+    background-color: green;
+    width: 200px;
+    height: 47px;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+    
+}
+.container{
+    width: 400px;
+    height:fit-content;
+    margin: auto;
+    background-color:white;
+    border-radius: 10px;
+    padding-top: 10px;
+
+
+}
+
+
+h1{
+    color: blue;
+    font-family: sans-serif;
+}
+body{
+    background-color:lightgrey;
+}
+.whitebox{
+    padding-left: 10px;
+    padding-right:10px;
+    padding-bottom: 10px;
+
+}
